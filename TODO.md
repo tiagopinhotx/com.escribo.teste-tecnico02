@@ -5,12 +5,12 @@ A game like pacman but in a Tavern
     [ X ] Get some free sprites
 
 ### Setup Dev Environment
-    [  ] Install Flutter
-    [  ] Flutter Doctor
-        [  ] Setup Chrome Path
-        [  ] Install Android Studio
-        [  ] Setup Android Tool chain
-        [  ] Linux Tool chain
-    [  ] Install Bonfire
+    [ X ] Install Flutter
+    [ X ] Flutter Doctor
+        [ X ] Setup Chrome Path
+        [ X ] Install Android Studio
+        [ X ] Setup Android Tool chain
+        [ X ] Linux Tool chain (Ninja Build)
+    [   ] Install Bonfire
 
 ### 
